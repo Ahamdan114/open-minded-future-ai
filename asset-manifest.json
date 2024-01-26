@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/open-minded-future-ai/static/css/main.3f3486c4.css",
+    "main.js": "/open-minded-future-ai/static/js/main.25a26ad6.js",
+    "static/media/ai.png": "/open-minded-future-ai/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/open-minded-future-ai/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/open-minded-future-ai/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/open-minded-future-ai/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/open-minded-future-ai/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/open-minded-future-ai/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/open-minded-future-ai/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/open-minded-future-ai/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/open-minded-future-ai/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
+    "index.html": "/open-minded-future-ai/index.html",
+    "main.3f3486c4.css.map": "/open-minded-future-ai/static/css/main.3f3486c4.css.map",
+    "main.25a26ad6.js.map": "/open-minded-future-ai/static/js/main.25a26ad6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f3486c4.css",
+    "static/js/main.25a26ad6.js"
+  ]
+}
