@@ -9,10 +9,13 @@ import {
     Header,
 } from "./containers";
 import { CTA, Brand, Navbar } from "./components";
+import Favicon from "./components/Favicon.jsx";
+
 import "./App.css";
 const App = () => {
     return (
         <div className="App">
+            <Favicon />
             <div className="gradient__bg">
                 <Navbar />
                 <Header />
